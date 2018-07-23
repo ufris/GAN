@@ -1,5 +1,5 @@
 # 아래 코드는 https://github.com/golbin/TensorFlow-Tutorials/blob/master/09%20-%20GAN/01%20-%20GAN.py
-# 에서 가져온 
+# 에서 가져온 것
 
 # 2016년에 가장 관심을 많이 받았던 비감독(Unsupervised) 학습 방법인
 
